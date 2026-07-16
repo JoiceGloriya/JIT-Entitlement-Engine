@@ -134,15 +134,6 @@ Whenever changes are pushed to the main branch, the workflow syncs the frontend 
 
 ---
 
-## Demo
-[(Demo Video Link)](https://drive.google.com/file/d/1rfNBYcIrr6judr5Q7EdX7FhMKBVqEey4/view?usp=drive_link)
-
----
-
-## You can further contribute to this project by creating a new feature-branch and making a pull request. Mail the demo video to [malarvannanm11@gmail.com] for merging
-
----
-
 Author <br>
 Malarvannan.M <br>
 SDE at Trimble Inc. (Feb 2026)  
