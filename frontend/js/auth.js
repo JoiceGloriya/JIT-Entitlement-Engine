@@ -8,6 +8,8 @@ async function login() {
         password
     });
 
+    
+
     if (res.userId) {
         localStorage.setItem("userId", res.userId);
         window.location.href = "products.html";
